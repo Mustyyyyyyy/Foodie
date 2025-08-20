@@ -28,7 +28,7 @@ const Hero = () => {
         src={myimage} 
         alt="" 
         className="img-fluid" 
-        style={{ maxWidth: "500px" }} 
+        style={{ maxWidth: "400px" }} 
       />
     </div>
   </div>

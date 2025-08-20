@@ -7,7 +7,6 @@ import ourimage from '../assets/downs.svg'
 const Body = () => {
   return (
     <>
-    {/* <img src={myimages} alt="" /> */}
 <div className="container my-5 py-5">
   <div className="row align-items-center">
     <div className="col-md-6 text-center mb-4 mb-md-0">
@@ -15,7 +14,7 @@ const Body = () => {
         src={myimage}
         alt=""
         className="img-fluid rounded shadow"
-        style={{ maxWidth: "500px" }}
+        style={{ maxWidth: "400px" }}
       />
     </div>
 
